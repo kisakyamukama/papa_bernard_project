@@ -1,0 +1,17 @@
+.main-view{
+  min-height: 90vh;
+}
+.navbar-brand{
+  cursor:pointer;
+  outline:none;
+  font-weight:700;
+  font-style:italics;
+}
+
+.navbar-collapse{
+  outline:none;
+}
+
+.carousel-item:img{
+  height="300px"
+}
