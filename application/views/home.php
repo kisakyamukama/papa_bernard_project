@@ -57,32 +57,7 @@
 
 						</header>
 						<!-- header -->
-						<!-- courousel -->
-									<!-- <div class="">
-											<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-											  <div class="carousel-inner" style="height:320px">
-											    <div class="carousel-item active">
-											        <img src="<?php echo base_url('assets/images/54291-28950-12142015-malachi-3-1-social.800w.tn.png'); ?>" class="d-block w-100  img-fluid" alt="...">
-											    </div>
-											    <div class="carousel-item">
-											      <img src="<?php echo  base_url('assets/images/4.jpg');?>" class="d-block w-100 img-fluid" alt="...">
-											    </div>
-											    <div class="carousel-item">
-											      <img src="<?php echo  base_url('assets/images/54181-30106-cm-Restore-health-heal-wounds-social.800w.tn.png');?>" class="d-block w-100 img-fluid" alt="...">
-											    </div>
-													<div class="carousel-item">
-											      <img src="<?php echo  base_url('assets/images/praying-2179326_1920.jpg');?>" class="d-block w-100 img-fluid" alt="...">
-											    </div>
-													<div class="carousel-item">
-											      <img src="<?php echo  base_url('assets/images/sunrise-1756274_1920.jpg');?>" class="d-block w-100 img-fluid" alt="...">
-											    </div>
-													<div class="carousel-item">
-											      <img src="<?php echo  base_url('assets/images/international-2657372_1920.png');?>" class="d-block w-100 img-fluid" alt="...">
-											    </div>
-											  </div>
-											</div>
 
-						</div> -->
 						<div class="bd-example">
 						  <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
 						    <ol class="carousel-indicators">
@@ -92,21 +67,21 @@
 						    </ol>
 						    <div class="carousel-inner">
 						      <div class="carousel-item active">
-						        <img src="<?php echo base_url('assets/images/54291-28950-12142015-malachi-3-1-social.800w.tn.png'); ?>" height="300px" class="d-block w-100" alt="...">
+						        <img src="<?php echo base_url('assets/images/54291-28950-12142015-malachi-3-1-social.800w.tn.png'); ?>" height="400px" class="d-block w-100" alt="...">
 						        <div class="carousel-caption d-none d-md-block">
 						          <h5>First slide label</h5>
 						          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 						        </div>
 						      </div>
 						      <div class="carousel-item">
-						        <img src="<?php echo  base_url('assets/images/4.jpg');?>" class="d-block w-100" alt="...">
+						        <img src="<?php echo  base_url('assets/images/4.jpg');?>" height="400px" class="d-block w-100" alt="...">
 						        <div class="carousel-caption d-none d-md-block">
 						          <h5>Second slide label</h5>
 						          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 						        </div>
 						      </div>
 						      <div class="carousel-item">
-						        <img src="<?php echo  base_url('assets/images/54181-30106-cm-Restore-health-heal-wounds-social.800w.tn.png');?>"  class="d-block w-100" alt="...">
+						        <img src="<?php echo  base_url('assets/images/54181-30106-cm-Restore-health-heal-wounds-social.800w.tn.png');?>"  height="400px" class="d-block w-100" alt="...">
 						        <div class="carousel-caption d-none d-md-block">
 						          <h5>Third slide label</h5>
 						          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
